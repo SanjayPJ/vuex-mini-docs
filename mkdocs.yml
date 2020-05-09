@@ -1,0 +1,25 @@
+# Project information
+site_name: VUEX
+site_author: Sanjay PJ
+
+nav:
+  - Home: "index.md"
+
+# Configuration
+theme:
+  name: material
+  language: en
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true

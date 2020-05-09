@@ -1,0 +1,3 @@
+# notes-boilerplate
+
+[/site](/site)
